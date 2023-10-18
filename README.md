@@ -1,2 +1,2 @@
 # COMP1010
- This the all program and the assignment of the course of COMP1010 from university of manitoba
+these are the programs and assignments of the course of COMP1010 from university of manitoba
